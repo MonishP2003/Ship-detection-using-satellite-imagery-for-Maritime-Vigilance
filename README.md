@@ -3,13 +3,13 @@ This project aims to detect ships in satellite images using advanced image proce
 
 <br/> 
 
-Introduction:
+## Introduction:
 
 The Ship Detection Project utilizes various machine learning techniques to identify ships in satellite images. The project leverages OpenCV for image processing and TensorFlow/Keras for building and training neural networks.
 
 <br/>
 
-Features:
+## Features:
 
 Data Visualization: Analyzes ship sizes and color distribution in images.
 
@@ -25,6 +25,6 @@ Deployment: Saves and loads trained models for further predictions.
 
 <br/>
 
-Results:
+## Results:
 
 Results include visualizations of ship size distribution, color histograms, and predictions made by the trained model.
